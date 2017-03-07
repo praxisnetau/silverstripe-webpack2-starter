@@ -70,7 +70,7 @@ loaded by Webpack.
 
 ## Configuration
 
-The theme uses `bootstrap-loader` and `modernizr-loader` for easy customation of your theme via configuration files:
+The theme uses `bootstrap-loader` and `modernizr-loader` for easy customisation of your theme via configuration files:
 
 * `themes/app/.bootstraprc` - YAML configuration for Bootstrap
 * `themes/app/.modernizrrc` - YAML configuration for Modernizr
@@ -105,4 +105,3 @@ When deploying your project to a live server, you do not need to deploy the `the
 
 * Thanks to [Aaron Carlino](https://github.com/unclecheese) and [Stevie Mayhew](https://github.com/stevie-mayhew) for
 laying the groundwork for this repo to be built.
-
