@@ -1,0 +1,29 @@
+---
+Name: app-controller
+---
+PageController:
+  themed_css:
+    - production/styles/bundle.css
+  themed_javascript:
+    - production/js/bundle.js
+---
+Name: app-controller-dev
+Only:
+  environment: dev
+---
+PageController:
+  dev_server:
+    host: localhost
+    port: 8080
+    https: false
+    timeout: 10
+  load_themed_css: false
+  load_themed_javascript: true
+---
+Name: app-controller-live
+Except:
+  environment: dev
+---
+PageController:
+  load_themed_css: true
+  load_themed_javascript: true

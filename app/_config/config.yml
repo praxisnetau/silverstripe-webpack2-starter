@@ -1,0 +1,9 @@
+---
+Name: app
+---
+SilverStripe\View\SSViewer:
+  themes:
+    - app
+    - '$default'
+SilverStripe\i18n\i18n:
+  default_locale: 'en_US'

@@ -1,0 +1,11 @@
+# Modernizr Configuration:
+
+minify: true
+
+options:
+  - setClasses
+
+feature-detects:
+  - svg
+  - svg/asimg
+  - svg/inline
