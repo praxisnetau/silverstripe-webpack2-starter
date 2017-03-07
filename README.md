@@ -35,13 +35,15 @@ install:
 ### Yarn
 
 ```shell
-$ cd themes/app $ yarn install
+$ cd themes/app
+$ yarn install
 ```
 
 ### NPM
 
 ```shell
-$ cd themes/app $ npm install
+$ cd themes/app
+$ npm install
 ```
 
 ## Development
