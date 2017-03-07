@@ -15,7 +15,7 @@ Installation is via [Composer](https://getcomposer.org).
 Create a new project based on this repo by running:
 
 ```shell
-$ composer create-project praxisnetau/silverstripe-webpack2-starter /path/to/project
+$ composer create-project praxisnetau/silverstripe-webpack2-starter /path/to/project dev-master
 ```
 
 Alternatively, clone the repo, and then run:
