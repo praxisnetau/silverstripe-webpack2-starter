@@ -1,6 +1,6 @@
 {
   "name": "praxisnetau/silverstripe-webpack2-starter",
-  "description": "Starter kit for SilverStripe 4 and Webpack 2.",
+  "description": "Starter kit for SilverStripe 4, Webpack 2 and Bootstrap 4.",
   "homepage": "https://github.com/praxisnetau/silverstripe-webpack2-starter",
   "keywords": [
     "silverstripe",
